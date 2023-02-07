@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vamsi-newsweb/static/css/main.073c9b0a.css",
+    "main.js": "/vamsi-newsweb/static/js/main.da83aead.js",
+    "static/js/787.4c026eef.chunk.js": "/vamsi-newsweb/static/js/787.4c026eef.chunk.js",
+    "index.html": "/vamsi-newsweb/index.html",
+    "main.073c9b0a.css.map": "/vamsi-newsweb/static/css/main.073c9b0a.css.map",
+    "main.da83aead.js.map": "/vamsi-newsweb/static/js/main.da83aead.js.map",
+    "787.4c026eef.chunk.js.map": "/vamsi-newsweb/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.da83aead.js"
+  ]
+}
